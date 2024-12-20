@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Hovhannes Baghdasaryan 👋</h1>
+
+## Support
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/yourusername)
 
 <!--
 **Hovo-Dev/Hovo-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
