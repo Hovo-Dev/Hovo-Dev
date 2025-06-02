@@ -1,15 +1,15 @@
-<h1 align="center">Hi, I'm Hovhannes Baghdasaryan 👋</h1>
+<h1 align="center">Hi, I'm Hovhannes 👋</h1>
 
 <h3>
-   Software Engineer | Expert in Python, Node.js | AWS Enthusiast 
+   Software Engineer with focus on AI integration | Expert in Python, Node.js | AWS Enthusiast 
 </h3>
 <div>
    <img src="https://komarev.com/ghpvc/?username=hovo-dev&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
 </div>
 
 ## 🚀 About Me
-- **Current Role**: : Full-Stack Software Engineer turning complex product ideas into real-world, user-ready platforms.
-- **Experience**: 5+ years of building and deploying production systems used in fintech, adtech, and AI-powered tools.
+- **Current Role**: : Backend Software Engineer turning complex product ideas into real-world, user-ready platforms.
+- **Experience**: 3+ years of building and deploying production systems used in fintech, adtech, and AI-powered tools.
 - **Education**: Bachelor's degree in Computer Engineering from Yerevan State University.
 
 I specialize in transforming ambitious concepts into reliable, scalable platforms. Recently, I’ve been focused on integrating **LLMs** into real-world products — using tools like **LangChain** and **OpenAI** to automate user interactions, decision-making workflows, and content generation. My goal is always the same: build products that provide real value, not just features.
