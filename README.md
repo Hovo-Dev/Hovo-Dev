@@ -59,6 +59,10 @@ I specialize in transforming ambitious concepts into reliable, scalable platform
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## ✍️ Random Dev Quote
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 🤝 Support
 <a href="https://www.buymeacoffee.com/hovhannes" target="_blank">
    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
