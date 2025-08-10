@@ -8,8 +8,8 @@
 </div>
 
 ## 🚀 About Me
-- **Current Role**: Backend Software Engineer With Focus On AI Integration. Working On Email Template Builder App @ [Touchpoint](https://www.touchpoint.com/)
-- **Experience**: 3+ years of building and deploying production systems in distinctive fields such as: fintech, healthcare, and AI-powered apps.
+- **Current Role**: Backend Software Engineer With Focus On AI Integration. Building AI-Powered Email Builder App @ [Touchpoint](https://www.touchpoint.com/)
+- **Experience**: 3+ years of building and deploying production systems in distinctive fields such as: Fintech, Healthcare, and ML/AI.
 - **Education**: Bachelor's degree in Informatics and Applied Mathematics from Yerevan State University.
 
 I specialize in transforming ambitious concepts into reliable, scalable platforms. Recently, I’ve been focused on integrating **LLMs** into real-world products — using tools like **LangChain** and **OpenAI** to automate user interactions, decision-making workflows, and content generation. My goal is always the same: build products that provide real value, not just features.
