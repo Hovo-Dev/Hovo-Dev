@@ -12,7 +12,7 @@
 - **Experience**: 3+ years of building and deploying production systems in distinctive fields such as: Fintech, Healthcare, and ML/AI.
 - **Education**: Bachelor's degree in Informatics and Applied Mathematics from Yerevan State University.
 
-I specialize in transforming ambitious concepts into reliable, scalable platforms. Recently, I’ve been focused on integrating **LLMs** into real-world products — using tools like **LangChain** and **OpenAI** to automate user interactions, decision-making workflows, and content generation. My goal is always the same: build products that provide real value, not just features.
+I am specialized in transforming ambitious concepts into reliable, scalable platforms. Recently, I’ve been focused on integrating **LLMs** into real-world products — using tools like **LangChain** and **VercelAI SDK** to automate user interactions, decision-making workflows, and content generation. My goal is always the same: build products that provide real value, not just features.
 
 ---
 
